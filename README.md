@@ -3,6 +3,8 @@ DATE:24-03-2026
 Name :Kamaleshwaran S
 Register Number: 212225040165
 PROGRAM 1
+
+
 AIM:
 Write a C program to find the ASCII value of a given character
 ALGORITHM:
